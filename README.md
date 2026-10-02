@@ -2,7 +2,8 @@
 
 Two microcontrollers talking over a CAN bus. An ESP32 sends drive commands, and an Arduino Uno receives them and drives DC motors through an L298N H-bridge.
 
-<img width="500" alt="CAN Rover" src="PASTE YOUR EXISTING IMAGE LINK HERE" />
+<img width="5712" height="4284" alt="CAN_Rover" src="https://github.com/user-attachments/assets/fa3d018d-873a-4b93-89a1-bf8617f4acd0" />
+
 
 ## How it works
 
